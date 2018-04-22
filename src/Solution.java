@@ -32,7 +32,7 @@ public class Solution {
         return result;
     }
     public static void main(String args[]){
-        int result=lengthOfLongestSubstring("abcabcbb");
+        int result=lengthOfLongestSubstring("abcabcbba");
         System.out.println(result);
     }
 }
